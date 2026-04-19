@@ -54,6 +54,7 @@ NADS/
 └── README.md
 
 📊 Dashboard Modules
+
 🏠 Home Dashboard
 
 Displays:
@@ -83,3 +84,27 @@ Charts:
 Traffic patterns
 Attack distribution
 Top attacking IPs
+
+## 📸 Screenshots
+
+### 🏠 Dashboard
+
+![Dashboard](Screenshots/DASHBOARD.jpeg)
+
+---
+
+### 🚨 Alerts Page
+
+![Alerts](Screenshots/ALERTS.jpeg)
+
+---
+
+### 📜 Logs Page
+
+![Logs](Screenshots/LOGS.jpeg)
+
+---
+
+### 📈 Analytics Page
+
+![Analytics](Screenshots/ANALYTICS.jpeg)
